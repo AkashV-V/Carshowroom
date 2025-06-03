@@ -1,0 +1,42 @@
+.car1, .car2, .car3 {
+  display: block;
+  margin: 40px auto;
+  text-align: center;
+  max-width: 95%;
+}
+
+.car1 img,.car2 img,.car3 img{
+ width: 100%;
+  max-width: 600px;
+  height: auto;
+  border-radius: 5px;
+}
+h2{
+    color: var(--active);
+    font-size: 30px;
+    width: 100%;
+}
+
+.car1 p,.car2 p,.car3 p{
+    color: var(--text);
+    font-size: 20px;
+    width: 100%;
+    margin-right: 340px;
+}
+.about h1{
+    color: var(--active-dark);
+    font-size: 30px;
+    text-align: center;
+}
+.about .social-media{
+    color: var(--text);
+    font-size: 20px;
+    width: 100%;
+    text-align: center;
+}
+.about{
+    background-color: #333;
+    text-align: center;
+    font-size: 25px;
+    color: aliceblue;
+}
