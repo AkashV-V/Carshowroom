@@ -72,6 +72,10 @@ header{
 .content p{
     display: block;
 }
+.about{
+    height: 200px;
+    
+}
 @media (max-width: 768px) {
   .head li {
     display: block;
